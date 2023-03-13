@@ -1,0 +1,8 @@
+def Python (Python_is_very_populary_programmy language)
+if word = be
+     return (Alishtiradigan gapni kiriting!)
+
+else:
+    return"Error"
+
+    print(Python())
